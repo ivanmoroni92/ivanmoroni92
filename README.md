@@ -1,4 +1,4 @@
-### Hola, soy ivan 
+### Hola, soy iván 
 
 ![GitHub Logo](https://user-images.githubusercontent.com/69017661/127789120-70c15e32-b5e8-4240-b64f-27ccafa3f9bb.png)
 
