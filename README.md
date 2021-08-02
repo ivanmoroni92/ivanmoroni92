@@ -33,4 +33,14 @@ escogidas para este proyecto fueron React js, Sequelize y Passport.
 
 https://github.com/ivanmoroni92/26-checkpoint-OMDB
 
+### Portfolio :
+Este fue mi primer Porfolio donde aprendí a programar y a tirar mis primeras
+lineas de código antes de convertirme en un Full Stack Develope. Lo aprecio de 
+corazon ya que fue mis primeros pasos como programador y descubrir esta
+hermosa pasion.
+
+https://xenodochial-snyder-41fa03.netlify.app/
+
+
+ 
 
