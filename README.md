@@ -1,6 +1,6 @@
 ### Hola, soy iván 
 
-![GitHub Logo](https://user-images.githubusercontent.com/69017661/127801274-a21e5bed-d03d-44bb-be1a-6852606cb602.png)
+![GitHub Logo](https://user-images.githubusercontent.com/69017661/127801525-3fe41f79-8851-4dd2-a2a3-66c3a71cf947.png)
 
 Soy un programador Full Stack Developer creativo, divertido, eficiente y con
 mucho criterio a la hora de toma de decisiones. Me gustan los desafíos, el
